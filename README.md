@@ -10,5 +10,7 @@ It provides essential solar and weather parameters needed for analyzing and opti
 Key Attributes in the Dataset
 
 Global Horizontal Irradiance (GHI): Measures total solar radiation received on a horizontal     surface (sum of direct and diffuse radiation)
+
 Direct Normal Irradiance (DNI): Measures solar radiation received perpendicular to the sun’s rays, critical for solar panel efficiency.
+
 Diffuse Horizontal Irradiance (DHI): Measures scattered solar radiation received on a horizontal surface, important in cloudy conditions
